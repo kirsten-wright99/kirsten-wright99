@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kirsten, a 3rd year college student studying Computer Science at the University of Central Florida!
+- 👋 Hi, I’m Kirsten, a 4th year college student studying Computer Science at the University of Central Florida!
 - 👀 I’m interested in evolutionary computation, bioinformatics, embedded systems and more!
 - 🌱 I’m currently learning flutter and react native.
 - 💞️ I’m looking to collaborate on projects involving evolutionary computation, bonus points if they overlap with any of my other interests!
